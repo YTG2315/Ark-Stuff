@@ -2,9 +2,9 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": True,
-            "HideIconAfter": 300,
-            "IconURL": "https://cdn.discordapp.com/attachments/1130576750821257428/1130577137569628270/bbxlabel.png?ex=65775e82&is=6564e982&hm=7dfd8b2fd4c7958f8abcf9a729c79f614b46820138d3811486b4f6b339610f00&",
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://cdn.discordapp.com/attachments/1130576750821257428/1180620825343316039/1.png?ex=657e15d3&is=656ba0d3&hm=b035c5c29f3539d5aa987a35324c4c9e61add2241faeb9669a4a7bf52e957f49&",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -16,53 +16,69 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "Welcome",
-                    "title1": "Thanks for Playing BlackBox FiberCraft!",
-                    "text1": "Please click on the relative buttons for all you may need to know!\nIf you wish to support us please use the discord button to see more, or if your more of automated person please click the ourstore button!",
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+                    "title1": "Welcome to BlackBoxFibercraft, Please click on the relevant tabs to read all the information you may need!",
+                    "text1": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\"1,0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"0,1,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!",
                     "imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1130577137569628270/bbxlabel.png?ex=65775e82&is=6564e982&hm=7dfd8b2fd4c7958f8abcf9a729c79f614b46820138d3811486b4f6b339610f00&"
                 }
             },
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "Rules",
-                    "title1": "Rules:",
-                    "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\"rules":<TextStyle.LightBlue>Please Read Below and adhere to our rules:</>\n\n\\Please be wary we are in the early stages of the server and we are working on it\n\n\1) Regarding external clients, exploiting, glitches:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update",
-                    "title2": "JSON settings:",
-                    "text2": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images.",
+                    "buttontext": "Rules!",
+                    "title1": "Left title",
+                    "title2": "Right title",
+                    "text1": "test\ntest2",
+                    "text2": "This text goes into the right box",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "3 Box layout",
+                    "title1": "Left title",
+                    "title2": "Top right title",
+                    "title3": "Bottom left title",
+                    "text1": "This text goes into the left box",
+                    "text2": "This text goes into the top right box",
+                    "text3": "This text goes into the bottom right box",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 4,
+                    "buttontext": "4 Box layout",
+                    "title1": "Top left title",
+                    "title2": "<TextStyle.Green>Top right title</>",
+                    "title3": "<TextStyle.Blue>bottom left title</>",
+                    "title4": "<TextStyle.Yellow>bottom right title</>",
+                    "text1": "<TextStyle.Orange>This text goes into the top left box</>",
+                    "text2": "<TextStyle.Violet>This text goes into the top right box</>",
+                    "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
+                    "text4": "<TextStyle.White>This text goes into the bottom right box</>",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             }
         ],
         "links": [
             {
-                "link1": {
-                    "text": "Discord",
-                    "url": "https://discord.gg/BBXFIBERCRAFT"
+                "Link1": {
+                    "text": "Link to our discord!",
+                    "url": "https://discord.gg/bbxfibercraft"
                 }
             },
             {
                 "link2": {
-                    "text": "Our Store",
-                    "url": "https://blackboxfibercraft.tebex.io/"
+                    "text": "Link to our webstore!",
+                    "url": "https://blackboxfibercraft.tebex.io/category/asa-gold-coins"
                 }
             },
             {
                 "link3": {
-                    "text": "CurseForge",
-                    "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-                }
-            },
-            {
-                "link4": {
-                    "text": "JSON-Validator",
-                    "url": "https://jsonlint.com"
-                }
-            },
-            {
-                "link5": {
-                    "text": "Github",
-                    "url": "https://github.com"
+                    "text": "Link to our patreon page!",
+                    "url": "https://www.patreon.com/BLACKBOXFIBERCRAFT"
                 }
             }
         ]
