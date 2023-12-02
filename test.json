@@ -2,8 +2,8 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": false,
-            "HideIconAfter": 60,
+            "HideIcon": True,
+            "HideIconAfter": 300,
             "IconURL": "https://cdn.discordapp.com/attachments/1130576750821257428/1130577137569628270/bbxlabel.png?ex=65775e82&is=6564e982&hm=7dfd8b2fd4c7958f8abcf9a729c79f614b46820138d3811486b4f6b339610f00&",
             "DisableIconText": false,
             "IconPosition": 0,
@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "Thanks for Playing BlackBox FiberCraft!",
-                    "text1": "Please click on the relative buttons for all you may need to know!",
+                    "text1": "Please click on the relative buttons for all you may need to know!\nIf you wish to support us please use the discord button to see more, or if your more of automated person please click the ourstore button!",
                     "imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1130577137569628270/bbxlabel.png?ex=65775e82&is=6564e982&hm=7dfd8b2fd4c7958f8abcf9a729c79f614b46820138d3811486b4f6b339610f00&"
                 }
             },
