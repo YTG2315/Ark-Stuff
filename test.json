@@ -27,7 +27,164 @@
                     "layout": 2,
                     "buttontext": "Rules",
                     "title1": "Rules:",
-                    "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[BlackBox Fibercarft]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update",
+                    "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\{
+  "rules": [
+    {
+      "header": "Regarding external clients, exploiting, glitches",
+      "sub_rules": [
+        "Cheating (ESPing, Aimbotting, spoofing to list a few) is not allowed",
+        "Dupping",
+        "Abusing any form of in-game exploit/glitch",
+        {
+          "header": "Applicable to reports",
+          "sub_rules": [
+            "When creating a report ensure you have a minimum of 3 valid clips, clips must contain the accused in-game name(s)."
+          ]
+        },
+        {
+          "header": "Applicable to inis",
+          "sub_rules": [
+            "If and when using an ini, you are not permitted to use the \"cheats\" on those ini programs. This can include but is not limited to",
+            "* Speed hacks",
+            "* Insta Turning",
+            "* No recoil, etc"
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Building Rules",
+      "sub_rules": [
+        "Creating Floating Builds - Snapping to world border is a part of this rule.",
+        "Blocking Vital Map Zones such as player spawns, dams, dens, obs(bosses), UW zones, AB zones, etc.",
+        "The exception to this rule being the ext titan caves and caves known as Lab, lava if you're confused make a ticket and I'll let you know.",
+        "Base spots that require the use of a teleporter, tek punch, chair, zipline, knockout strat, peli, etc are not allowed. This includes bases exposed to the mesh. Once you can crawl, walk or crouch in it's fine.",
+        "When building in unraidable spots like lava golem, lab, etc admins have the right to clear the unraidable part, i.e., after the barrier",
+        "Mesh defense is allowed however turrets (leave them on medium or low) are not to shoot through the mesh and no structures that do not pertain to defense are to be found in the mesh."
+      ]
+    },
+    {
+      "header": "Spam Rules",
+      "sub_rules": [
+        "Excessive turret ground spam - There is no number on this rule to prevent petty reports including a picture of the spam when reporting this will be up to the admin's discretion - Replacing turrets is not a part of the rule.",
+        "Excessive spam, to minimize lag do not spam more than 40 foundations out of the last turret tower rendered - This must be done at a reasonable distance."
+      ]
+    },
+    {
+      "header": "Raiding Rules",
+      "sub_rules": [
+        "No cannon raiding, ballista turret raiding, tunnel raiding, raft raiding, box dino raiding (Dino Fully enclosed unable to be shot).",
+        "Mesh Raiding (hitting structures/players/dinos through map mesh or cave edits including with or without tames)",
+        "No Caging",
+        "Turret Raiding - Using your tribe's turrets to raid another's base/damage/break tribe structures - If you're unsure how this is done or what this is, this is when a tribe uses their turrets intentionally to break your turrets using an unclaimed dino.",
+        "This may happen unintentionally at times, damage and intention needs to be there. Ie not one turret being hit. For example, if you're soaking and their turrets are hitting yours or vice versa it will not count especially in a cave where there are tight spaces."
+      ]
+    },
+    {
+      "header": "Server Related Rules",
+      "sub_rules": [
+        "Intentional lagging of the server this includes but is not limited to intentionally changing your tribe repeatedly, mass breeding, hatching, cloning, leaving and spamming excessive genes, trans, reppys, bubbles (20 or more) around the map.",
+        "Absolutely no ban evasion (coming back on alts, spoofers)",
+        "No out-of-game currency is to be traded or exchanged",
+        "Racism",
+        "Threats of doxing, ddosing"
+      ]
+    },
+    {
+      "header": "Insiding Rules",
+      "sub_rules": [
+        "Insiding is bannable however no replacements will be made please note that we deal with actual insiding. We do not deal with inner tribe disputes ie tommy stole my pt or i got kicked",
+        "- Demoing a base",
+        "- Switching genes off"
+      ]
+    }
+  ]
+}
+This JSON structure maintains the hierarchy of the rules and sub-rules using nested objects and arrays. Each rule has a "header" and "sub_rules" (if applicable).
+
+
+
+
+User
+can you add \n to seperate each new line? in order to pass json validation 
+ChatGPT
+Certainly! To add newline characters (\n) for better readability and JSON validation, here's the modified JSON:
+
+json
+Copy code
+{
+  "rules": [
+    {
+      "header": "Regarding external clients, exploiting, glitches",
+      "sub_rules": [
+        "Cheating (ESPing, Aimbotting, spoofing to list a few) is not allowed",
+        "Dupping",
+        "Abusing any form of in-game exploit/glitch",
+        {
+          "header": "Applicable to reports",
+          "sub_rules": [
+            "When creating a report ensure you have a minimum of 3 valid clips, clips must contain the accused in-game name(s)."
+          ]
+        },
+        {
+          "header": "Applicable to inis",
+          "sub_rules": [
+            "If and when using an ini, you are not permitted to use the \"cheats\" on those ini programs. This can include but is not limited to",
+            "* Speed hacks",
+            "* Insta Turning",
+            "* No recoil, etc"
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Building Rules",
+      "sub_rules": [
+        "Creating Floating Builds - Snapping to world border is a part of this rule.",
+        "Blocking Vital Map Zones such as player spawns, dams, dens, obs(bosses), UW zones, AB zones, etc.",
+        "The exception to this rule being the ext titan caves and caves known as Lab, lava if you're confused make a ticket and I'll let you know.",
+        "Base spots that require the use of a teleporter, tek punch, chair, zipline, knockout strat, peli, etc are not allowed. This includes bases exposed to the mesh. Once you can crawl, walk or crouch in it's fine.",
+        "When building in unraidable spots like lava golem, lab, etc admins have the right to clear the unraidable part, i.e., after the barrier",
+        "Mesh defense is allowed however turrets (leave them on medium or low) are not to shoot through the mesh and no structures that do not pertain to defense are to be found in the mesh."
+      ]
+    },
+    {
+      "header": "Spam Rules",
+      "sub_rules": [
+        "Excessive turret ground spam - There is no number on this rule to prevent petty reports including a picture of the spam when reporting this will be up to the admin's discretion - Replacing turrets is not a part of the rule.",
+        "Excessive spam, to minimize lag do not spam more than 40 foundations out of the last turret tower rendered - This must be done at a reasonable distance."
+      ]
+    },
+    {
+      "header": "Raiding Rules",
+      "sub_rules": [
+        "No cannon raiding, ballista turret raiding, tunnel raiding, raft raiding, box dino raiding (Dino Fully enclosed unable to be shot).",
+        "Mesh Raiding (hitting structures/players/dinos through map mesh or cave edits including with or without tames)",
+        "No Caging",
+        "Turret Raiding - Using your tribe's turrets to raid another's base/damage/break tribe structures - If you're unsure how this is done or what this is, this is when a tribe uses their turrets intentionally to break your turrets using an unclaimed dino.",
+        "This may happen unintentionally at times, damage and intention needs to be there. Ie not one turret being hit. For example, if you're soaking and their turrets are hitting yours or vice versa it will not count especially in a cave where there are tight spaces."
+      ]
+    },
+    {
+      "header": "Server Related Rules",
+      "sub_rules": [
+        "Intentional lagging of the server this includes but is not limited to intentionally changing your tribe repeatedly, mass breeding, hatching, cloning, leaving and spamming excessive genes, trans, reppys, bubbles (20 or more) around the map.",
+        "Absolutely no ban evasion (coming back on alts, spoofers)",
+        "No out-of-game currency is to be traded or exchanged",
+        "Racism",
+        "Threats of doxing, ddosing"
+      ]
+    },
+    {
+      "header": "Insiding Rules",
+      "sub_rules": [
+        "Insiding is bannable however no replacements will be made please note that we deal with actual insiding. We do not deal with inner tribe disputes ie tommy stole my pt or i got kicked",
+        "- Demoing a base",
+        "- Switching genes off"
+      ]
+    }
+  ]
+}
                     "title2": "JSON settings:",
                     "text2": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images.",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
