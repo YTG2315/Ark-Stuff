@@ -27,8 +27,7 @@
                     "layout": 2,
                     "buttontext": "Rules",
                     "title1": "Rules:",
-                    "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\{
-  "rules": [
+                    "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\"rules": [
     {
       "header": "Regarding external clients, exploiting, glitches",
       "sub_rules": [
