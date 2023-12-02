@@ -5,7 +5,7 @@
             "HideIcon": true,
             "HideIconAfter": 60,
             "IconURL": "https://cdn.discordapp.com/attachments/1130576750821257428/1180620825343316039/1.png?ex=657e15d3&is=656ba0d3&hm=b035c5c29f3539d5aa987a35324c4c9e61add2241faeb9669a4a7bf52e957f49&",
-            "DisableIconText": false,
+            "DisableIconText": True,
             "IconPosition": 0,
             "IconTextColor": 0,
             "OpenOnStart": true,
