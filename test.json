@@ -16,9 +16,9 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "<RichColor Color=\"1,0,0,1\"> Click Me</>",
+                    "buttontext": "<RichColor Color=\"1,0,0,1\"> Click Me </>",
                     "title1": "Welcome to BlackBoxFibercraft, Please click on the relevant tabs to read all the information\nyou may need!",
-                    "text1": "<RichColor Color=\"1,0,0,1\"> Please be wary we are currently in our early stages, we are always improving the server,click the discord button to have your say!</>"
+                    "text1": "<RichColor Color=\"1,0,0,1\"> Please be wary we are currently in our early stages, we are always improving the server,click the discord button to have your say! </>"
                     "imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1130577137569628270/bbxlabel.png?ex=65775e82&is=6564e982&hm=7dfd8b2fd4c7958f8abcf9a729c79f614b46820138d3811486b4f6b339610f00&"
                 }
             },
