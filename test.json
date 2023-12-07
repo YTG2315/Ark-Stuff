@@ -18,36 +18,6 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\"> Click Me!</>",
                     "title1": "Welcome to BlackBoxFibercraft, Please click on the relevant tabs to read all the information\nyou may need!",
-                    "text1": "<RichColor Color=\"1,0,0,1\">Please be wary we are currently in our early stages, we are always improving the server,click the discord button to have your say!</>",
-                    "imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1181685154452885644/feelin.png?ex=6581f50f&is=656f800f&hm=fdea153b7c0ba6be281f4a4cbf2d12aad7cd46436275b6467d31a6bb417c06db&"
-                }
-            },
-            {
-                "tab2": {
-                    "layout": 2,
-                    "buttontext": "Rules!",
-                    "title1": "Page 1",
-                    "title2": "Page 2",
-                    "text1": "{
-    "WBUI2": {
-        "settings": {
-            "OpenButton": 0,
-            "HideIcon": true,
-            "HideIconAfter": 60,
-            "IconURL": "https://cdn.discordapp.com/attachments/1130576750821257428/1180629743331201125/Untitled_design_14.png?ex=657e1e21&is=656ba921&hm=1d0069ad7e11a889ca37e9aaa2f058b3e557e725eaa4f37cdb9c4d6f30e11c0d&",
-            "DisableIconText": true,
-            "IconPosition": 0,
-            "IconTextColor": 0,
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 12
-        },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "<RichColor Color=\"1,0,0,1\"> Click Me!</>",
-                    "title1": "Welcome to BlackBoxFibercraft, Please click on the relevant tabs to read all the information\nyou may need!",
                     "text1": "\n<RichColor Color=\"1,0,0,1\">Please be wary we are currently in our early stages, we are always improving the server,click the discord button to have your say!</>",
                     "imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1181685154452885644/feelin.png?ex=6581f50f&is=656f800f&hm=fdea153b7c0ba6be281f4a4cbf2d12aad7cd46436275b6467d31a6bb417c06db&"
                 }
@@ -59,61 +29,6 @@
                     "title1": "Page 1",
                     "title2": "Page 2",
                     "text1": "<TextStyle.White>Regarding external clients!</>\n\nCheating(ESPing, Aimbotting, spoofing to list a few) is not allowed\nDupping\nAbusing anyform of ingame exploit/glitch\n*Applicable to reports\n-When creating a report ensure you have a minimum of 3 valid clips, clips must contain the accused ingame name(s).\nApplicable to inis\n*If and when using an ini your are not permitted to use the cheats on those ini programs this can include but is not limited to\n*Speed hacks\n*Insta Turning\n*No recoil, etc\n\n\n\n<TextStyle.White>Building Rules!</>\n\nCreating Floating Builds - Snapping to world border is apart of this rule.\nBlocking Vital Map Zones such as player spawns, dams, dens, obs(bosses), UW zones, AB zones, etc.\nThe exception to this rule being the ext titan caves and caves known as Lab, lava if your confused make a ticket and ill well you know.\nBase spots that require the use of a teleporter, tek punch, chair, zipline, knockout strat, peli, etc are not allowed this included bases exposed to the mesh, Once you can crawl, walk or crouch in it's fine.\n2 bases per map - the exception to this is VAL ab zone and GEN2 ocean biome\nWhen building in unraidable spots like lava golem, lab, etc admins have the right to clear the unraidable part ie after the barrier.\nMesh defense is allowed however turrets(leave them on medium or low) is not to shoot through the mesh and no structures that do not pertain to defense are to be found in the mesh.",
-                    "text2": "This text goes into the right box",
-                    "imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1182196663880790026/Untitled_design_16.png?ex=6583d170&is=65715c70&hm=6a84ccd712e201f7e4f1dc91ed8ac392458a12727e9011f761d99c366e4b4b40&"
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 3,
-                    "buttontext": "3 Box layout",
-                    "title1": "Left title",
-                    "title2": "Top right title",
-                    "title3": "Bottom left title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the top right box",
-                    "text3": "This text goes into the bottom right box",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
-                }
-            },
-            {
-                "tab4": {
-                    "layout": 4,
-                    "buttontext": "4 Box layout",
-                    "title1": "Top left title",
-                    "title2": "<TextStyle.Green>Top right title</>",
-                    "title3": "<TextStyle.Blue>bottom left title</>",
-                    "title4": "<TextStyle.Yellow>bottom right title</>",
-                    "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-                    "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-                    "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-                    "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
-                }
-            }
-        ],
-        "links": [
-            {
-                "Link1": {
-                    "text": "Link to our discord!",
-                    "url": "https://discord.gg/bbxfibercraft"
-                }
-            },
-            {
-                "link2": {
-                    "text": "Link to our webstore!",
-                    "url": "https://blackboxfibercraft.tebex.io/category/asa-gold-coins"
-                }
-            },
-            {
-                "link3": {
-                    "text": "Link to our patreon page!",
-                    "url": "https://www.patreon.com/BLACKBOXFIBERCRAFT"
-                }
-            }
-        ]
-    }
-},
                     "text2": "This text goes into the right box",
                     "imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1182196663880790026/Untitled_design_16.png?ex=6583d170&is=65715c70&hm=6a84ccd712e201f7e4f1dc91ed8ac392458a12727e9011f761d99c366e4b4b40&"
                 }
