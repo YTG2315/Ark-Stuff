@@ -1,86 +1,81 @@
 {
   "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 300,
-        "IconURL": "https://cdn.discordapp.com/attachments/1130576750821257428/1253737566377873460/flowcode_1.png?ex=66784319&is=6676f199&hm=e4868723436ebf85f2be96d4ff3df7ae5b523b1b4cdd8a0fe8b01d95ebd7d49f&",
-        "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome!</>",
-          "title1": "<TextStyle.LightBlue><TextStyle.LightBlue>Welcome to the BlackBox Servers!</></>\",
-          "text1": "Thank you for giving us a shot we hope you enjoy it!\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\"1,0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"0,1,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "2 Box layout",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab3": {
-          "layout": 3,
-          "buttontext": "3 Box layout",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "4 Box layout",
-          "title1": "Top left title",
-          "title2": "<TextStyle.Green>Top right title</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-        }
-      },
-      {
-        "link2": {
-          "text": "Link to discord",
-          "url": "https://discord.com/invite/K7NyrTV"
-        }
-      },
-      {
-        "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
-        }
-      }
-    ]
-  }
+	"settings":
+	{
+		"OpenButton": 0,
+		"HideIcon": false,
+		"HideIconAfter": 300,
+		"IconURL": "https://cdn.discordapp.com/attachments/1130576750821257428/1254280011041607750/discord.ggbbxfibercraft__1_-removebg-preview.png?ex=6678eaca&is=6677994a&hm=fba17e96a4da93ef53c6e23db8bf8d3b0c9d68d7689dcbfe23b6d8eb7960b511&",
+		"DisableIconText": true,
+		"IconPosition": 0,
+		"IconTextColor": 8,
+		"OpenOnStart": true,
+		"OpenOnStartOnlyNewPlayers": true,
+		"UpdateInterval": 12
+	},
+	"tabs": [
+		{
+			"tab1":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Green>Read Me!</>",
+				"title1": "Welcome to the BlackBox Servers!",
+				"text1": "<TextStyle.Violet>Thank you for giving us a shot we hope you enjoy your time here!</>\r\n\r\nIf there is any help you may need, please click the buttons labeled at the bottom to join our discord, check out How to, Rules Information and our shop tab!\r\nDiscord - https://discord.gg/bbxfibercraft\r\nIngame Shop - https://bbxshop.gameserverapp.net/shop\r\nSupport us here - https://bbxshop.gameserverapp.net/supporter-tier\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nClick me to try : >                                      |                                                      |                                                  |",
+				"imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1254273883133972481/Scan_Me.png?ex=6678e515&is=66779395&hm=17783c79cbbc2af1e10b8734220fcfabee8dca8ad009a1df11721641208aa91e&"
+			}
+		},
+		{
+			"tab2":
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Blue>Rules!</>",
+				"title1": "Left title",
+				"title2": "Right title",
+				"text1": "This text goes into the left box",
+				"text2": "This text goes into the right box",
+				"imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1254273883133972481/Scan_Me.png?ex=6678e515&is=66779395&hm=17783c79cbbc2af1e10b8734220fcfabee8dca8ad009a1df11721641208aa91e&"
+			}
+		},
+		{
+			"tab3":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Orange>How to's!</>",
+				"title1": "How to!",
+				"text1": "New Text",
+				"imageurl": "https://i.imgur.com/mGt3cAF.png"
+			}
+		}
+	],
+	"links": [
+		{
+			"link1":
+			{
+				"text": "Discord Link",
+				"url": "https://discord.gg/bbxfibercraft"
+			}
+		},
+		{
+			"link2":
+			{
+				"text": "Support Us here <3",
+				"url": "https://bbxshop.gameserverapp.net/supporter-tier"
+			}
+		},
+		{
+			"link3":
+			{
+				"text": "Ingame Shops",
+				"url": "https://bbxshop.gameserverapp.net/shop"
+			}
+		},
+		{
+			"link4":
+			{
+				"text": "Our patreon page!",
+				"url": ""
+			}
+		}
+	]
+}
 }
