@@ -15,7 +15,7 @@
 				"buttoninfo":
 				{
 					"id": "8E9D9E3942347474F5265AB7E7B28A67",
-					"title": "WELCOME",
+					"title": "Read me newbie!",
 					"position": "NewEnumerator0",
 					"normal":
 					{
@@ -206,11 +206,401 @@
 				}
 			},
 			{
-				"id": "D0465B1D40D30DF9266B568711B2545F",
+				"id": "B5DA3215448B390B695FF28B42C6A0CC",
 				"buttoninfo":
 				{
-					"id": "D0465B1D40D30DF9266B568711B2545F",
-					"title": "SERVER SETTINGS",
+					"id": "B5DA3215448B390B695FF28B42C6A0CC",
+					"title": "Ingame Store (How to)",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator0",
+				"panel1":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "PANEL 1",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "2ECCF94044DDC1E1619A0DB8A167DFFA",
+				"buttoninfo":
+				{
+					"id": "2ECCF94044DDC1E1619A0DB8A167DFFA",
+					"title": "How to use the mods",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator0",
+				"panel1":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "PANEL 1",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "FB6C8BAB46500D7A00F07497007F217F",
+				"buttoninfo":
+				{
+					"id": "FB6C8BAB46500D7A00F07497007F217F",
+					"title": "Rules",
 					"position": "NewEnumerator1",
 					"normal":
 					{
@@ -401,11 +791,11 @@
 				}
 			},
 			{
-				"id": "FB6C8BAB46500D7A00F07497007F217F",
+				"id": "D0465B1D40D30DF9266B568711B2545F",
 				"buttoninfo":
 				{
-					"id": "FB6C8BAB46500D7A00F07497007F217F",
-					"title": "RULES",
+					"id": "D0465B1D40D30DF9266B568711B2545F",
+					"title": "Server Stats",
 					"position": "NewEnumerator1",
 					"normal":
 					{
@@ -513,7 +903,7 @@
 					}
 				},
 				"panelspacing": 10,
-				"layout": "NewEnumerator8",
+				"layout": "NewEnumerator4",
 				"panel1":
 				{
 					"title": "PANEL 1",
@@ -599,125 +989,11 @@
 		"links": [
 			{
 				"id": "D9377F6B4323DB65C68AEEA0EBBC32E2",
-				"url": "https://discord.gg/7uHFUAzFsT",
+				"url": "https://discord.gg/bbxfibercraft ",
 				"buttoninfo":
 				{
 					"id": "D9377F6B4323DB65C68AEEA0EBBC32E2",
-					"title": "ATOMIC DISCORD",
-					"position": "NewEnumerator0",
-					"normal":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.00060700002359226346,
-							"g": 0.028426000848412514,
-							"b": 0.07618500292301178,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.44705900549888611,
-							"b": 0.50980401039123535,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0
-					},
-					"hovered":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.015685999765992165,
-							"b": 0.043136999011039734,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0.26274499297142029,
-							"b": 0.40784299373626709,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.23529399931430817,
-							"b": 0.27058801054954529,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0
-					},
-					"pressed":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.027450999245047569,
-							"b": 0.074510000646114349,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0.21568599343299866,
-							"g": 0.80000001192092896,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.44705900549888611,
-							"b": 0.50980401039123535,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0
-					},
-					"selected":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0.5
-					}
-				}
-			},
-			{
-				"id": "2623C4394FA79E99E44E93A62A27E46A",
-				"url": "https://www.curseforge.com/ark-survival-ascended/search?page=1&pageSize=20&sortBy=relevancy&search=atomic",
-				"buttoninfo":
-				{
-					"id": "2623C4394FA79E99E44E93A62A27E46A",
-					"title": "ATOMIC MODS",
+					"title": "Our Discord!",
 					"position": "NewEnumerator0",
 					"normal":
 					{
@@ -827,12 +1103,354 @@
 			},
 			{
 				"id": "9F4943104E2CB8C17A6784A378441280",
-				"url": "https://survivetheark.com/",
+				"url": "https://bbxshop.gameserverapp.net/supporter-tier",
 				"buttoninfo":
 				{
 					"id": "9F4943104E2CB8C17A6784A378441280",
-					"title": "ARK",
-					"position": "NewEnumerator1",
+					"title": "Support Us Here <3",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "22375A3C4452FB02429B4F9FF2C258B3",
+				"url": "",
+				"buttoninfo":
+				{
+					"id": "22375A3C4452FB02429B4F9FF2C258B3",
+					"title": "Patreon Page",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "8E3E00984E47A352997155BE906B3FE6",
+				"url": "https://blackboxfibercraft.tebex.io/",
+				"buttoninfo":
+				{
+					"id": "8E3E00984E47A352997155BE906B3FE6",
+					"title": "Tebex Store",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "2623C4394FA79E99E44E93A62A27E46A",
+				"url": "https://bbxshop.gameserverapp.net/shop",
+				"buttoninfo":
+				{
+					"id": "2623C4394FA79E99E44E93A62A27E46A",
+					"title": "Ingame Shops",
+					"position": "NewEnumerator0",
 					"normal":
 					{
 						"backgroundcolor":
