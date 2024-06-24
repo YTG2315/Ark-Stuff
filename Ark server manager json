@@ -1,0 +1,1208 @@
+{
+	"Atomic":
+	{
+		"title": "BlackBox Server Manager",
+		"titlecolor":
+		{
+			"r": 0.53333300352096558,
+			"g": 0.91372597217559814,
+			"b": 1,
+			"a": 1
+		},
+		"tabs": [
+			{
+				"id": "8E9D9E3942347474F5265AB7E7B28A67",
+				"buttoninfo":
+				{
+					"id": "8E9D9E3942347474F5265AB7E7B28A67",
+					"title": "WELCOME",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator2",
+				"panel1":
+				{
+					"title": "<RichColor Color=\"0, 1, 0, 1\">WELCOME TO THE BLACKBOX SERVERS!!</>",
+					"titlejustification": "Left",
+					"text": "-> Thanks for giving us a shot we hope you have fun and most of all, we hope you enjoy your stay.\r\n\r\n- For any help you may need please click on the buttons, use the QR codes, or simply join the discord \r\n@https://discord.gg/bbxfibercraft(you can also use the buttons/QR codes).\r\n\r\n- Before going on, if your interested in how things work you can use this tab at anytime by clicking F1 or hold X on xbox\r\nSquare on playstation. You can also find buttons to the following:\r\n\r\n-> Ingame Shop - A quick rundown on how to use it\r\n-> Rules - A not so quick list of the rules\r\n-> A supporter tier page, showing you how to your support to your advantage, from discord boosters to private owners <3\r\n-> A Notice tab - here we will do our best to post known issues, WIP things, bugs, fixes, Discounts, and more\r\n\r\n\r\n\r\n\r\n Thats all for now, love from the staff team <3\r\n",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "Scan Me : >",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1254508716644896929/Untitled_design_1.png?ex=667a6889&is=66791709&hm=70fc118a91f8541c40d969ac8d0f211d2b087ea96d3fda393e4295115ebacdbc&"
+				},
+				"panel3":
+				{
+					"title": "PANEL 3",
+					"titlejustification": "Left",
+					"text": "PANEL 3 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "D0465B1D40D30DF9266B568711B2545F",
+				"buttoninfo":
+				{
+					"id": "D0465B1D40D30DF9266B568711B2545F",
+					"title": "SERVER SETTINGS",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator4",
+				"panel1":
+				{
+					"title": "PANEL 1",
+					"titlejustification": "Left",
+					"text": "PANEL 1 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "PANEL 2",
+					"titlejustification": "Left",
+					"text": "PANEL 2 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "PANEL 3",
+					"titlejustification": "Left",
+					"text": "PANEL 3 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "FB6C8BAB46500D7A00F07497007F217F",
+				"buttoninfo":
+				{
+					"id": "FB6C8BAB46500D7A00F07497007F217F",
+					"title": "RULES",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator8",
+				"panel1":
+				{
+					"title": "PANEL 1",
+					"titlejustification": "Left",
+					"text": "PANEL 1 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "PANEL 2",
+					"titlejustification": "Left",
+					"text": "PANEL 2 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "PANEL 3",
+					"titlejustification": "Left",
+					"text": "PANEL 3 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			}
+		],
+		"links": [
+			{
+				"id": "D9377F6B4323DB65C68AEEA0EBBC32E2",
+				"url": "https://discord.gg/7uHFUAzFsT",
+				"buttoninfo":
+				{
+					"id": "D9377F6B4323DB65C68AEEA0EBBC32E2",
+					"title": "ATOMIC DISCORD",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "2623C4394FA79E99E44E93A62A27E46A",
+				"url": "https://www.curseforge.com/ark-survival-ascended/search?page=1&pageSize=20&sortBy=relevancy&search=atomic",
+				"buttoninfo":
+				{
+					"id": "2623C4394FA79E99E44E93A62A27E46A",
+					"title": "ATOMIC MODS",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "9F4943104E2CB8C17A6784A378441280",
+				"url": "https://survivetheark.com/",
+				"buttoninfo":
+				{
+					"id": "9F4943104E2CB8C17A6784A378441280",
+					"title": "ARK",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			}
+		],
+		"linkbuttondefaultsettings":
+		{
+			"id": "",
+			"title": "",
+			"position": "NewEnumerator0",
+			"normal":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.00060700002359226346,
+					"g": 0.028426000848412514,
+					"b": 0.07618500292301178,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"hovered":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.015685999765992165,
+					"b": 0.043136999011039734,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0.26274499297142029,
+					"b": 0.40784299373626709,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.23529399931430817,
+					"b": 0.27058801054954529,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"pressed":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.027450999245047569,
+					"b": 0.074510000646114349,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0.21568599343299866,
+					"g": 0.80000001192092896,
+					"b": 1,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"selected":
+			{
+				"backgroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0.5
+			}
+		},
+		"tabbuttondefaultsettings":
+		{
+			"id": "",
+			"title": "",
+			"position": "NewEnumerator0",
+			"normal":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.00060700002359226346,
+					"g": 0.028426000848412514,
+					"b": 0.07618500292301178,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"hovered":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.015685999765992165,
+					"b": 0.043136999011039734,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0.26274499297142029,
+					"b": 0.40784299373626709,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.23529399931430817,
+					"b": 0.27058801054954529,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"pressed":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.027450999245047569,
+					"b": 0.074510000646114349,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0.21568599343299866,
+					"g": 0.80000001192092896,
+					"b": 1,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"selected":
+			{
+				"backgroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0.5
+			}
+		},
+		"paneldefaultbackgroundcolor":
+		{
+			"r": 0,
+			"g": 0.0078429998829960823,
+			"b": 0.019608000293374062,
+			"a": 0.7019609808921814
+		},
+		"iconsettings":
+		{
+			"showicon": true,
+			"hideafterduration": 300,
+			"usecustomicon": true,
+			"customiconurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1254280011041607750/discord.ggbbxfibercraft__1_-removebg-preview.png?ex=667a3c4a&is=6678eaca&hm=54f457db70688ccc1968fbc84c1d37463d73bf5675b7a25de985bc6bc482a36a&",
+			"usecustomtext": false,
+			"customtext": "",
+			"customtextcolor":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"openbuttonkey": "F1",
+			"position": "NewEnumerator0",
+			"iconmarginx": 9.4497718811035156,
+			"iconmarginy": 12.144563674926758,
+			"iconopacity": 1,
+			"customtextopacity": 0,
+			"customtexthorizontalalignment": "HAlign_Fill",
+			"customtextverticalalignment": "VAlign_Fill",
+			"customtextfontsize": 0
+		},
+		"showsettings":
+		{
+			"onplayerlogon": true,
+			"fornewplayersonly": false,
+			"onnextplayerlogonversion": 0
+		},
+		"miscsettings":
+		{
+			"isplayerslistenabled": false,
+			"istribeslistenabled": false,
+			"isdinoscannerenabled": false
+		}
+	}
+}
