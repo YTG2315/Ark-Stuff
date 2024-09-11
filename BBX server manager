@@ -20,7 +20,7 @@
 				"layout": 1,
 				"buttontext": "<TextStyle.Green>Read Me Newbie!</>",
 				"title1": "Welcome to the BlackBox Servers!",
-				"text1": "- For any help you may need please click on the buttons, use the QR codes, or simply join the discord @https://discord.gg/WP4Zc7Y4(you can also use the buttons/QR codes).\r\n- Before going on, if your interested in how things work you can use this tab at anytime by clicking F1 or hold X on xbox\r\nSquare on playstation. You can also find buttons to the following:\r\n\r\n-> Ingame Shop - A quick rundown on how to use it\r\n-> Rules - A not so quick list of the rules\r\n-> A supporter tier page, showing you how to your support to your advantage, from discord boosters to private owners <3\r\n-> A Notice tab - here we will do our best to post known issues, WIP things, bugs, fixes, Discounts, and more\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThats all for now, love from the staff team <3",
+				"text1": "- For any help you may need please click on the buttons, use the QR codes, or simply join the discord @https://discord.gg/bbxfibercraft(you can also use the buttons/QR codes).\r\n- Before going on, if your interested in how things work you can use this tab at anytime by clicking F1 or hold X on xbox\r\nSquare on playstation. You can also find buttons to the following:\r\n\r\n-> Ingame Shop - A quick rundown on how to use it\r\n-> Rules - A not so quick list of the rules\r\n-> A supporter tier page, showing you how to your support to your advantage, from discord boosters to private owners <3\r\n-> A Notice tab - here we will do our best to post known issues, WIP things, bugs, fixes, Discounts, and more\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThats all for now, love from the staff team <3",
 				"imageurl": "https://i.imgur.com/sARnGMT.png"
 			}
 		},
@@ -53,7 +53,17 @@
 				"buttontext": "How to use the mods!",
 				"title1": "",
 				"text1": "New Text",
-				"imageurl": "https://i.imgur.com/mGt3cAF.png"
+				"imageurl": "https://i.imgur.com/16YCkxy.png"
+			}
+		},
+		{
+			"tab5":
+			{
+				"layout": 1,
+				"buttontext": "Notices!",
+				"title1": "Notices!",
+				"text1": "Please be reminded to join the discord if you need any help! https://discord.gg/WP4Zc7Y4\r\n\r\n1. Please note that we are not live yet, we are still working to rebuild things from the ground up.",
+				"imageurl": "https://i.imgur.com/16YCkxy.png"
 			}
 		}
 	],
