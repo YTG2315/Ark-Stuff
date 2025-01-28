@@ -1,91 +1,83 @@
 {
-    "WBUI2": {
-        "settings": {
-            "OpenButton": 0,
-            "HideIcon": false,
-            "HideIconAfter": 300,
-            "IconURL": "https://i.imgur.com/FB4L93Z.png",
-            "DisableIconText": true,
-            "IconPosition": 0,
-            "IconTextColor": 8,
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 12
-        },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Green>Read Me Newbie!</>",
-                    "title1": "Welcome to the BlackBox Servers!",
-                    "text1": "- For any help you may need please click on the buttons, use the QR codes, or simply join the discord @https://discord.gg/bbxfibercraft(you can also use the buttons/QR codes).\r\n- Before going on, if your interested in how things work you can use this tab at anytime by clicking F1 or hold X on xbox\r\nSquare on playstation. You can also find buttons to the following:\r\n\r\n-> Ingame Shop - A quick rundown on how to use it\r\n-> Rules - A not so quick list of the rules\r\n-> A supporter tier page, showing you how to your support to your advantage, from discord boosters to private owners <3\r\n-> A Notice tab - here we will do our best to post known issues, WIP things, bugs, fixes, Discounts, and more\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThats all for now, love from the staff team <3",
-                    "imageurl": "https://i.imgur.com/lSctJ2A.png"
-                }
-            },
-            {
-                "tab2": {
-                    "layout": 2,
-                    "buttontext": "<TextStyle.Blue>Rules!</>",
-                    "title1": "Left title",
-                    "title2": "Right title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the right box",
-                    "imageurl": "https://i.imgur.com/lSctJ2A.png"
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Orange>How to use the ingame shops!</>",
-                    "title1": "How to use the ingame exchanges!",
-                    "text1": "- First please visit https://bbxshop.gameserverapp.net/shop, you can do this but either clicking the button saying ingame shops or just scan the QR code anywhere in the information tab.\r\n\r\n- Once here, you will see many things place your eyes on the \"LOGIN\" option(Top left) from here click the login and choose your relevant platform, try to use your game station platform if your on steam click login with steam, \r\nyou can link your other accounts later.\r\n\r\n- Once logged in, in the same place where login was you should now see your name or whatever name that was pulled from the account, from there click your name -> settings \r\n\r\n- Once here you will see a tab saying \"Get connect code\" this process only takes 2 mins, leave this tab up, go back into ASA and type in \"!getconnectcode\" In the ingame chat, not tribe or local chat, from there it will prompt you to type it \r\nagain do so. Once done your character is now linked and your information is store you'd can now enjoy all the server has to offer from a simple WEBUI/WEB PAGE.\r\n\r\n- As usual any issues reach out to us on discord so we can lend a hand.\r\n\r\n<3",
-                    "imageurl": "https://i.imgur.com/lSctJ2A.png"
-                }
-            },
-            {
-                "tab4": {
-                    "layout": 1,
-                    "buttontext": "How to use the mods!",
-                    "title1": "",
-                    "text1": "New Text",
-                    "imageurl": "https://i.imgur.com/lSctJ2A.png"
-                }
-            },
-            {
-                "tab5": {
-                    "layout": 1,
-                    "buttontext": "Notices!",
-                    "title1": "Notices!",
-                    "text1": "Please be reminded to join the discord if you need any help! https://discord.gg/WP4Zc7Y4\r\n\r\n1. Please note that we are not live yet, we are still working to rebuild things from the ground up.",
-                    "imageurl": "https://i.imgur.com/lSctJ2A.png"
-                }
-            }
-        ],
-        "links": [
-            {
-                "link1": {
-                    "text": "Discord Link",
-                    "url": "https://discord.gg/WSFgdTHNuC"
-                }
-            },
-            {
-                "link2": {
-                    "text": "Support Us here <3",
-                    "url": "https://bbxshop.gameserverapp.net/supporter-tier"
-                }
-            },
-            {
-                "link3": {
-                    "text": "Ingame Shops",
-                    "url": "https://bbxshop.gameserverapp.net/shop"
-                }
-            },
-            {
-                "link4": {
-                    "text": "Our patreon page!",
-                    "url": ""
-                }
-            }
-        ]
-    }
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 300,
+			"iconurl": "https://i.imgur.com/FB4L93Z.png",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 8,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Green>Read Me Newbie!</>",
+				"imageurl": "https://i.imgur.com/lSctJ2A.png",
+				"content": [
+					{
+						"title": "Welcome to the BlackBox Servers!",
+						"text": "- For any help you may need please click on the buttons, use the QR codes, or simply join the discord @https://discord.gg/bbxfibercraft(you can also use the buttons/QR codes).\r\n- Before going on, if your interested in how things work you can use this tab at anytime by clicking F1 or hold X on xbox\r\nSquare on playstation. You can also find buttons to the following:\r\n\r\n-> Ingame Shop - A quick rundown on how to use it\r\n-> Rules - A not so quick list of the rules\r\n-> A supporter tier page, showing you how to your support to your advantage, from discord boosters to private owners <3\r\n-> A Notice tab - here we will do our best to post known issues, WIP things, bugs, fixes, Discounts, and more\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThats all for now, love from the staff team <3"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Orange>How to use the ingame shops!</>",
+				"imageurl": "https://i.imgur.com/lSctJ2A.png",
+				"content": [
+					{
+						"title": "How to use the ingame exchanges!",
+						"text": "- First please visit https://bbxshop.gameserverapp.net/shop, you can do this but either clicking the button saying ingame shops or just scan the QR code anywhere in the information tab.\r\n\r\n- Once here, you will see many things place your eyes on the \"LOGIN\" option(Top left) from here click the login and choose your relevant platform, try to use your game station platform if your on steam click login with steam, \r\nyou can link your other accounts later.\r\n\r\n- Once logged in, in the same place where login was you should now see your name or whatever name that was pulled from the account, from there click your name -> settings \r\n\r\n- Once here you will see a tab saying \"Get connect code\" this process only takes 2 mins, leave this tab up, go back into ASA and type in \"!getconnectcode\" In the ingame chat, not tribe or local chat, from there it will prompt you to type it \r\nagain do so. Once done your character is now linked and your information is store you'd can now enjoy all the server has to offer from a simple WEBUI/WEB PAGE.\r\n\r\n- As usual any issues reach out to us on discord so we can lend a hand.\r\n\r\n<3"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Red>Rules!</>",
+				"imageurl": "https://i.imgur.com/lSctJ2A.png",
+				"content": [
+					{
+						"title": "Basic Rules, Join the discord to read them all !",
+						"text": "In-game language such as Tribe/Player/Dino Names and chat in game should not include Racism/Doxxing/Threats of dossing/doxxing\r\n#1 General Rules\r\n1.1 NO use of any cheating clients.\r\n1.2 NO Dupping of items or tames.\r\n1.3 NO Abuse of any in-game exploit / glitch.\r\n1.4 NO caging\r\n1.5 NO Insiding\r\n\r\nExceptions to #1\r\n1.1 INI\r\n1.1 Snapping Structures\r\n1.1 General Macros\r\n1.5 We only deal with actual insiding, we don't handle inner tribe disputes like being kicked or someone stole your tame.\r\nWhen reporting please include multiple clips, the ingame name must be in these clips of your accuse.\r\n#2 Building Rules\r\n2.1 NO floating builds\r\n2.2 NO blocking vital map zones. player spawns, dam, boss arenas, underworld entrances.\r\n2.3 Bases MUST be accessible by walking, flying, crouching, swimming or crawling in.\r\n2.4 ONLY 2 bases per map.\r\n2.5 When building in caves with a barrier, admins reserve the right to clear beyond the barrier once that point of the cave has been raided to.\r\n2.6 Mesh defense is allowed, they cant shoot / hit out the mesh.\r\n2.7 Tame Defense must not be excessive, for smaller areas the limit is 10. For more open areas the limit is 30.\r\n2.8 No mesh bitting tames.\r\n2.9 Cave edits are considered a part of the game, do not build, bite through them, rebuild the edits, or excessively spam in the edits.\r\nExceptions #2\r\n2.1 You can snap to the border in places like redwood cave on the center.\r\n2.2 Underwater biome on gen2 is considered one location.\r\n#3 Spam Rules\r\n3.1 NO MORE THAN 600 purely spam turrets allowed in turret radius, please refer to ⁠✘・rules-examples (Admins will clear as close to sub 600 turrets as they can)\r\nAdmins may hit things surrounding your turrets, that is on you.\r\n3.2 No Excessive carpet spam inclusive of excessive snapping please refer to ⁠⁠✘・rules-examples.\r\n3.3 (Not Limited to) Excessive spam of transmitters, generators, vaults, cryo-fridges, and forcefields etc please refer to ⁠⁠✘・rules-examples.\r\n3.4 No Pulsing Gens.\r\n\r\nExceptions to #3\r\n3.1 The water in SN\r\n#4 Raiding Rules\r\n4.1 No cannon raiding, ballista turret raiding, tunnel raiding, raft raiding, box dino raiding(Dino Fully enclosed unable to be shot) please refer to ⁠✘・rules-examples\r\n4.2 Mesh Raiding (hitting structures/players/dinos through map mesh or cave edits including with or without tames, ridden or unridden)\r\n4.3 Turret Raiding - Using your own turrets to raid another tribe, by unclaiming another a dinosaur.\r\n4.4 When raiding and or defending mass soaking is not allowed. There should not be more than 10 unridden tames soaking at a time.\r\n4.5 Crouch Stuffing your base with 100s of tames is not allowed please refer to 2.7 / 2.8\r\n4.6 Mesh bitting through walls, edits, and structures are not allowed, Provide clips when reporting\r\nExceptions to #4\r\n4.1 Boxed dino raiding means a fully enclosed dino, enclosing your player is okay.\r\n4.4 For example, if you're soaking and their turrets are hitting yours or vice versa, it will not count.\r\n#5 Insiding Rules\r\n5.1 Insiding is bannable however is not compensated.\r\n5.2 Insiding includes but is not limited to: Demoing a Base, Switching generators off, Changing Turret settings.\r\n#6 Smalls and Trios Map Rules\r\n5.1 Teaming is banned on our smalls, trios maps this applies to raiding and or defending.\r\n5.2 When reporting teaming, multiple video clips and screenshots must be included with in-game names, time stamp logs will not be sufficient."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Blue>Notices!</>",
+				"imageurl": "https://i.imgur.com/lSctJ2A.png",
+				"content": [
+					{
+						"title": "Notices!",
+						"text": "We are still a work in progress! Join the discord for any updates."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord Link",
+				"url": "https://discord.gg/WSFgdTHNuC"
+			},
+			{
+				"text": "Support Us here <3",
+				"url": "https://bbxshop.gameserverapp.net/supporter-tier"
+			},
+			{
+				"text": "Ingame Shops",
+				"url": "https://bbxshop.gameserverapp.net/shop"
+			},
+			{
+				"text": "Our patreon page!",
+				"url": ""
+			}
+		],
+		"version": 2
+	}
 }
