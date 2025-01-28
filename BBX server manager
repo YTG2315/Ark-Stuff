@@ -1,101 +1,91 @@
 {
-  "WBUI2": {
-	"settings":
-	{
-		"OpenButton": 0,
-		"HideIcon": false,
-		"HideIconAfter": 300,
-		"IconURL": "https://i.imgur.com/CGYYjFl.png",
-		"DisableIconText": true,
-		"IconPosition": 0,
-		"IconTextColor": 8,
-		"OpenOnStart": true,
-		"OpenOnStartOnlyNewPlayers": true,
-		"UpdateInterval": 12
-	},
-	"tabs": [
-		{
-			"tab1":
-			{
-				"layout": 1,
-				"buttontext": "<TextStyle.Green>Read Me Newbie!</>",
-				"title1": "Welcome to the BlackBox Servers!",
-				"text1": "- For any help you may need please click on the buttons, use the QR codes, or simply join the discord @https://discord.gg/bbxfibercraft(you can also use the buttons/QR codes).\r\n- Before going on, if your interested in how things work you can use this tab at anytime by clicking F1 or hold X on xbox\r\nSquare on playstation. You can also find buttons to the following:\r\n\r\n-> Ingame Shop - A quick rundown on how to use it\r\n-> Rules - A not so quick list of the rules\r\n-> A supporter tier page, showing you how to your support to your advantage, from discord boosters to private owners <3\r\n-> A Notice tab - here we will do our best to post known issues, WIP things, bugs, fixes, Discounts, and more\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThats all for now, love from the staff team <3",
-				"imageurl": "https://i.imgur.com/sARnGMT.png"
-			}
-		},
-		{
-			"tab2":
-			{
-				"layout": 2,
-				"buttontext": "<TextStyle.Blue>Rules!</>",
-				"title1": "Left title",
-				"title2": "Right title",
-				"text1": "This text goes into the left box",
-				"text2": "This text goes into the right box",
-				"imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1254273883133972481/Scan_Me.png?ex=6678e515&is=66779395&hm=17783c79cbbc2af1e10b8734220fcfabee8dca8ad009a1df11721641208aa91e&"
-			}
-		},
-		{
-			"tab3":
-			{
-				"layout": 1,
-				"buttontext": "<TextStyle.Orange>How to use the ingame shops!</>",
-				"title1": "How to use the ingame exchanges!",
-				"text1": "- First please visit https://bbxshop.gameserverapp.net/shop, you can do this but either clicking the button saying ingame shops or just scan the QR code anywhere in the information tab.\r\n\r\n- Once here, you will see many things place your eyes on the \"LOGIN\" option(Top left) from here click the login and choose your relevant platform, try to use your game station platform if your on steam click login with steam, \r\nyou can link your other accounts later.\r\n\r\n- Once logged in, in the same place where login was you should now see your name or whatever name that was pulled from the account, from there click your name -> settings \r\n\r\n- Once here you will see a tab saying \"Get connect code\" this process only takes 2 mins, leave this tab up, go back into ASA and type in \"!getconnectcode\" In the ingame chat, not tribe or local chat, from there it will prompt you to type it \r\nagain do so. Once done your character is now linked and your information is store you'd can now enjoy all the server has to offer from a simple WEBUI/WEB PAGE.\r\n\r\n- As usual any issues reach out to us on discord so we can lend a hand.\r\n\r\n<3",
-				"imageurl": "https://i.imgur.com/16YCkxy.png"
-			}
-		},
-		{
-			"tab4":
-			{
-				"layout": 1,
-				"buttontext": "How to use the mods!",
-				"title1": "",
-				"text1": "New Text",
-				"imageurl": "https://i.imgur.com/16YCkxy.png"
-			}
-		},
-		{
-			"tab5":
-			{
-				"layout": 1,
-				"buttontext": "Notices!",
-				"title1": "Notices!",
-				"text1": "Please be reminded to join the discord if you need any help! https://discord.gg/WP4Zc7Y4\r\n\r\n1. Please note that we are not live yet, we are still working to rebuild things from the ground up.",
-				"imageurl": "https://i.imgur.com/16YCkxy.png"
-			}
-		}
-	],
-	"links": [
-		{
-			"link1":
-			{
-				"text": "Discord Link",
-				"url": "https://discord.gg/WSFgdTHNuC"
-			}
-		},
-		{
-			"link2":
-			{
-				"text": "Support Us here <3",
-				"url": "https://bbxshop.gameserverapp.net/supporter-tier"
-			}
-		},
-		{
-			"link3":
-			{
-				"text": "Ingame Shops",
-				"url": "https://bbxshop.gameserverapp.net/shop"
-			}
-		},
-		{
-			"link4":
-			{
-				"text": "Our patreon page!",
-				"url": ""
-			}
-		}
-	]
-}
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 300,
+            "IconURL": "https://i.imgur.com/CGYYjFl.png",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 8,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Green>Read Me Newbie!</>",
+                    "title1": "Welcome to the BlackBox Servers!",
+                    "text1": "- For any help you may need please click on the buttons, use the QR codes, or simply join the discord @https://discord.gg/bbxfibercraft(you can also use the buttons/QR codes).\r\n- Before going on, if your interested in how things work you can use this tab at anytime by clicking F1 or hold X on xbox\r\nSquare on playstation. You can also find buttons to the following:\r\n\r\n-> Ingame Shop - A quick rundown on how to use it\r\n-> Rules - A not so quick list of the rules\r\n-> A supporter tier page, showing you how to your support to your advantage, from discord boosters to private owners <3\r\n-> A Notice tab - here we will do our best to post known issues, WIP things, bugs, fixes, Discounts, and more\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThats all for now, love from the staff team <3",
+                    "imageurl": "https://i.imgur.com/FB4L93Z.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "<TextStyle.Blue>Rules!</>",
+                    "title1": "Left title",
+                    "title2": "Right title",
+                    "text1": "This text goes into the left box",
+                    "text2": "This text goes into the right box",
+                    "imageurl": "https://cdn.discordapp.com/attachments/1130576750821257428/1254273883133972481/Scan_Me.png?ex=6678e515&is=66779395&hm=17783c79cbbc2af1e10b8734220fcfabee8dca8ad009a1df11721641208aa91e&"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Orange>How to use the ingame shops!</>",
+                    "title1": "How to use the ingame exchanges!",
+                    "text1": "- First please visit https://bbxshop.gameserverapp.net/shop, you can do this but either clicking the button saying ingame shops or just scan the QR code anywhere in the information tab.\r\n\r\n- Once here, you will see many things place your eyes on the \"LOGIN\" option(Top left) from here click the login and choose your relevant platform, try to use your game station platform if your on steam click login with steam, \r\nyou can link your other accounts later.\r\n\r\n- Once logged in, in the same place where login was you should now see your name or whatever name that was pulled from the account, from there click your name -> settings \r\n\r\n- Once here you will see a tab saying \"Get connect code\" this process only takes 2 mins, leave this tab up, go back into ASA and type in \"!getconnectcode\" In the ingame chat, not tribe or local chat, from there it will prompt you to type it \r\nagain do so. Once done your character is now linked and your information is store you'd can now enjoy all the server has to offer from a simple WEBUI/WEB PAGE.\r\n\r\n- As usual any issues reach out to us on discord so we can lend a hand.\r\n\r\n<3",
+                    "imageurl": "https://i.imgur.com/16YCkxy.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 1,
+                    "buttontext": "How to use the mods!",
+                    "title1": "",
+                    "text1": "New Text",
+                    "imageurl": "https://i.imgur.com/16YCkxy.png"
+                }
+            },
+            {
+                "tab5": {
+                    "layout": 1,
+                    "buttontext": "Notices!",
+                    "title1": "Notices!",
+                    "text1": "Please be reminded to join the discord if you need any help! https://discord.gg/WP4Zc7Y4\r\n\r\n1. Please note that we are not live yet, we are still working to rebuild things from the ground up.",
+                    "imageurl": "https://i.imgur.com/16YCkxy.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord Link",
+                    "url": "https://discord.gg/WSFgdTHNuC"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Support Us here <3",
+                    "url": "https://bbxshop.gameserverapp.net/supporter-tier"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Ingame Shops",
+                    "url": "https://bbxshop.gameserverapp.net/shop"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Our patreon page!",
+                    "url": ""
+                }
+            }
+        ]
+    }
 }
