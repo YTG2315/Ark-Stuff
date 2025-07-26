@@ -22,7 +22,7 @@
 				"content": [
 					{
 						"title": "Welcome to the BlackBox Servers!",
-						"text": "- For any help you may need please click on the buttons, use the QR codes, or simply join the discord @https://discord.gg/bbxfibercraft(you can also use the buttons/QR codes).\r\n- Before going on, if your interested in how things work you can use this tab at anytime by clicking F1 or hold X on xbox\r\nSquare on playstation. You can also find buttons to the following:\r\n\r\n-> Ingame Shop - A quick rundown on how to use it\r\n-> Rules - A not so quick list of the rules\r\n-> A supporter tier page, showing you how to your support to your advantage, from discord boosters to private owners <3\r\n-> A Notice tab - here we will do our best to post known issues, WIP things, bugs, fixes, Discounts, and more\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThats all for now, love from the staff team <3"
+						"text": "- For any help you may need please click on the buttons, use the QR codes, or simply join the discord @https://discord.gg/bbxfibercraft(you can also use the buttons/QR codes).\r\n- Before going on, if your interested in how things work you can use this tab at anytime by clicking F1 or hold X on xbox\r\nSquare on playstation. You can also find buttons to the following:\r\n\r\n-> Ingame Shop - A quick rundown on how to use it.\r\n-> Rules - A not so quick list of the rules.\r\n-> A supporter tier page, showing you how to your support to your advantage, from discord boosters to private owners <3.\r\n-> A Notice tab - here we will do our best to post known issues, WIP things, bugs, fixes, Discounts, and more.\r\n-> /Commands - A list of /Commands.\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThats all for now, love from the staff team <3"
 					}
 				]
 			},
@@ -32,8 +32,8 @@
 				"imageurl": "https://i.imgur.com/lSctJ2A.png",
 				"content": [
 					{
-						"title": "How to use the ingame exchanges!!",
-						"text": "- First please visit https://bbxshop.gameserverapp.net/shop, you can do this but either clicking the button saying ingame shops or just scan the QR code anywhere in the information tab.\r\n\r\n- Once here, you will see many things place your eyes on the \"LOGIN\" option(Top left) from here click the login and choose your relevant platform, try to use your game station platform if your on steam click login with steam, \r\nyou can link your other accounts later.\r\n\r\n- Once logged in, in the same place where login was you should now see your name or whatever name that was pulled from the account, from there click your name -> settings \r\n\r\n- Once here you will see a tab saying \"Get connect code\" this process only takes 2 mins, leave this tab up, go back into ASA and type in \"!getconnectcode\" In the ingame chat, not tribe or local chat, from there it will prompt you to type it \r\nagain do so. Once done your character is now linked and your information is store you'd can now enjoy all the server has to offer from a simple WEBUI/WEB PAGE.\r\n\r\n- As usual any issues reach out to us on discord so we can lend a hand.\r\n\r\n<3"
+						"title": "How to use the ingame shop!!",
+						"text": "- Visit the Shop Page:\r\nHead over to https://bbxshop.gameserverapp.net/shop. You can either click the “Ingame Shops” button or scan the QR code found in the Information tab.\r\n\r\n- Log In to Your Account:\r\nIn the top left corner, click “LOGIN”. Choose the platform you play on—if you're on Steam, select “Login with Steam”. You can always link other accounts later.\r\n\r\n- Access Your Settings:\r\nAfter logging in, your username (or the name from your account) will appear where the login button was. Click your name, then select “Settings.”\r\n\r\n- Link Your Character:\r\nIn settings, find the tab that says “Get Connect Code.”\r\n\r\n> Keep this page open.\r\nGo back into ARK: Survival Ascended (ASA) and type !getconnectcode in global chat (not tribe or local).\r\nYou’ll be prompted to enter the code again—go ahead and do it.\r\nOnce complete, your character will be linked and your data stored. You can now enjoy everything our servers offer directly through the web UI!\r\n\r\n- Need Help?\r\nReach out to us anytime on Discord—we’re happy to help! <3"
 					}
 				]
 			},
@@ -50,12 +50,23 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "<TextStyle.Blue>Notices!!!!!</>",
+				"buttontext": "<TextStyle.Yellow>Notices!!!!!</>",
 				"imageurl": "https://i.imgur.com/lSctJ2A.png",
 				"content": [
 					{
 						"title": "Notices!",
 						"text": "Nothing at this time!"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Orange>/Commands!!!!!</>",
+				"imageurl": "https://i.imgur.com/lSctJ2A.png",
+				"content": [
+					{
+						"title": "/CMDs",
+						"text": "Below you find a list of Slash /CMDs\r\n\r\n- /Stuck - Kills you\r\n- /Help - Routes you to discord\r\n- /Kit - Gives you a kit\r\n- /Starter - Gives you a starter\r\n- /Killme - Kills you\r\n- /Id - Gives you your specimen id\r\n- /Cmds - Lists this ingame\r\n- !Bal - Tells you your token balance\r\n- /Fill - Fills turrets in a radius\r\n- /Turrets on - Turns turrets on\r\n- /Turrets off - Turns turrets off\r\nMore to be added : )\r\n"
 					}
 				]
 			}
