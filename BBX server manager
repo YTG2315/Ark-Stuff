@@ -17,7 +17,7 @@
 		"tabs": [
 			{
 				"layout": 1,
-				"buttontext": "<TextStyle.Green>Read Me Newbie!</>",
+				"buttontext": "<TextStyle.Green>Read Me!!!</>",
 				"imageurl": "https://i.imgur.com/lSctJ2A.png",
 				"content": [
 					{
@@ -28,7 +28,7 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "<TextStyle.Orange>How to use the ingame shops!</>",
+				"buttontext": "<TextStyle.Orange>How to use the shop!!!!</>",
 				"imageurl": "https://i.imgur.com/lSctJ2A.png",
 				"content": [
 					{
@@ -39,7 +39,7 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "<TextStyle.Red>Rules!</>",
+				"buttontext": "<TextStyle.Red>Rules!!!!!</>",
 				"imageurl": "https://i.imgur.com/lSctJ2A.png",
 				"content": [
 					{
@@ -50,7 +50,7 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "<TextStyle.Blue>Notices!</>",
+				"buttontext": "<TextStyle.Blue>Notices!!!!!</>",
 				"imageurl": "https://i.imgur.com/lSctJ2A.png",
 				"content": [
 					{
