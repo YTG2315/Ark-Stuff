@@ -6,7 +6,7 @@
 			"openbutton": 0,
 			"hideicon": false,
 			"hideiconafter": 300,
-			"iconurl": "https://i.imgur.com/JgDnlcb.png",
+			"iconurl": "https://i.imgur.com/ihUmDfB.png",
 			"disableicontext": true,
 			"iconposition": 0,
 			"icontextcolor": 8,
@@ -55,7 +55,7 @@
 				"content": [
 					{
 						"title": "Notices!",
-						"text": "We are still a work in progress! Join the discord for any updates."
+						"text": "Nothing at this time!"
 					}
 				]
 			}
